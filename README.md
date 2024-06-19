@@ -18,7 +18,7 @@ _OpinionCraft: Unleashing Sentimental Insights through Unsupervised ML_
 An unsupervised approach to mine opinions, thoughts and emotions based on the mathematical notion of the words that determines the sentiment of the reviews that are being processed to achieve results for recommendation. The principal focus is to retrieve user’s search query (Product & Category), based on which the user will be recommended top-n products from that category alone. The Underlying mechanism in simplest terms is to figure out the sentiments of the reviews either as positive or negative, followed by clustering unique items to decide top-k products based on higher average of connotation scores. In the following sections, you'll get to know the craft and intricacies of the System built.
 <br>
 <br>
-Opinions based Recommendation Engine.
+
 
 This is an unsupervised approach to mine opinions, thoughts and emotions based on the mathematical notion of the words that determines the sentiment of the reviews that are being processed to achieve results for recommendation.
 
@@ -26,8 +26,9 @@ The principal focus here is to retrieve user’s search query (Product & Categor
  
 The workflow is well portrayed in the picture below:
 
-![Workflow drawio (2)](https://user-images.githubusercontent.com/93501171/167966496-19fed6b7-cea9-4854-8580-ff7382b25c9e.png)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/93501171/167966496-19fed6b7-cea9-4854-8580-ff7382b25c9e.png" width="600" alt="Description">
+</p>
   
 The approach taken is as follows:
 
