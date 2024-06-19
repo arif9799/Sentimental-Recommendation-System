@@ -1,4 +1,23 @@
-# Sentimental-Recommendation-System
+<p align="center">
+  
+  ___
+</p>
+<h3 align="center">
+  
+  [Sentimental Recommendation System, _Unsupervised ML_](https://github.com/arif9799/Sentimental-Recommendation-System)
+</h3>
+<br>
+
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/RecommendationSystem.gif" width="250" alt="Description">
+</p>
+<br>
+
+_OpinionCraft: Unleashing Sentimental Insights through Unsupervised ML_
+
+An unsupervised approach to mine opinions, thoughts and emotions based on the mathematical notion of the words that determines the sentiment of the reviews that are being processed to achieve results for recommendation. The principal focus is to retrieve user’s search query (Product & Category), based on which the user will be recommended top-n products from that category alone. The Underlying mechanism in simplest terms is to figure out the sentiments of the reviews either as positive or negative, followed by clustering unique items to decide top-k products based on higher average of connotation scores. In the following sections, you'll get to know the craft and intricacies of the System built.
+<br>
+<br>
 Opinions based Recommendation Engine.
 
 This is an unsupervised approach to mine opinions, thoughts and emotions based on the mathematical notion of the words that determines the sentiment of the reviews that are being processed to achieve results for recommendation.
